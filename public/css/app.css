@@ -1,0 +1,46 @@
+nav {
+  background-color: #f2f2f2;
+  display: flex;
+}
+
+ul {
+  display: flex;
+  padding-right: 50px;
+}
+
+li a {
+  padding-right: 150px;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(19, 1, 1);
+  font-weight: bold;
+}
+
+pre {
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.box {
+  margin: 20px;
+}
+
+.front {
+  margin-left: 400px;
+}
+
+.img1 {
+  margin-top: 50px;
+}
+
+.pizza {
+  display: flex;
+}
+
+span p {
+  font-size: 10px;
+  font-weight: bold;
+}
